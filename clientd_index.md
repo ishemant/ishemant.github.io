@@ -2,7 +2,7 @@
 
 
 
-# [隐私政策](./clientd_policy.html)
+# [隐私政策](./clientd_privacy.html)
 
 # [使用条款](./clientd_agreement.html)
 
