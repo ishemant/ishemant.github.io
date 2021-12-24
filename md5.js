@@ -1,7 +1,7 @@
 {
   "keyLength": 2048,
   "io": false,
-  "webUrl": "https://c.jindian188.cn/manage",
+  "webUrl": "https://c.51itou.com/manage",
   "thirdPartUrlPrefix": [
     "https://cash.yeepay.com",
     "https://m.51yueqian.com",
@@ -19,8 +19,8 @@
     "http://youdian.jindianle.com/others/scheme/index.html",
     "https://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
     "http://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
-    "https://update-0001.jindian188.cn/hot_code_com.itou.sim.client_dist/koudai",
-    "http://update-0001.jindian188.cn/hot_code_com.itou.sim.client_dist/koudai",
+    "https://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
+    "http://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "https://engine.qazxsdc.com/index/activity",
     "http://engine.qazxsdc.com/index/activity",
     "https://activity4.xinxuezl.com/activity",
@@ -43,8 +43,8 @@
     "http://youdian.jindianle.com/others/scheme/index.html",
     "https://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
     "http://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
-    "https://update-0001.jindian188.cn/hot_code_com.itou.sim.client_dist/koudai",
-    "http://update-0001.jindian188.cn/hot_code_com.itou.sim.client_dist/koudai"
+    "https://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
+    "http://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai"
   ],
   "schemeLaunchUrl": [
     "weixin://",
@@ -54,7 +54,7 @@
     "mailto:",
     "chsp://"
   ],
-  "syncCookiesUrl": "https://c.jindian188.cn",
+  "syncCookiesUrl": "https://c.51itou.com",
   "hotCodeUrl": "https://update-0001.jindianle.com/hot_code_com.wanglizhi.clientd_adhoc/koudai/",
   "hotCodeZipUrl": "https://update-0001.jindianle.com/hot_code_com.wanglizhi.clientd_adhoc/koudai_zip/",
   "enableHotCode": false,
